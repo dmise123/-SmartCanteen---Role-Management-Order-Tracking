@@ -1,0 +1,35 @@
+:root {
+    --title-color: #04364a;
+    --black-color: #000;
+    --body-color: #eff0f3;
+    --shadow-color: rgba(105, 105, 105, 0.5);
+    --title-font: "Coustard", serif;
+    --primary-font: "Roboto", sans-serif;
+    --secondary-font: "Quicksand", sans-serif;
+    --request-color: #fc8888;
+    --process-color: #fff266;
+    --done-color: #5bfc79;
+  }
+
+
+  body {
+    background-color: var(--body-color);
+    font-family: var(--primary-font);
+  }
+  
+  .nav-link {
+    font-family: var(--title-font);
+    color: var(--title-color);
+    font-size: 1.8rem;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .glass-box{
+
+    background: rgba(255, 255, 255, 0.26);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.9px);
+    -webkit-backdrop-filter: blur(5.9px);
+    }

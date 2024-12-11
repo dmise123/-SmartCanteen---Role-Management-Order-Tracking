@@ -1,0 +1,21 @@
+{
+
+    "database": {
+        "DB_USERNAME": "root",
+        "DB_PASSWORD": "",
+        "DB_PORT": "3306",
+        "DB_HOST": "127.0.0.1",
+        "DB_NAME": "petraeats"
+    },
+  
+    "server":{
+        "IP" : "127.0.0.1",
+        "PORT": "3000"
+    },
+      
+    "token":{
+        "PASSWORD" : "SKIBIDIDOBSKIBIDIDIB"
+    }
+
+
+}
